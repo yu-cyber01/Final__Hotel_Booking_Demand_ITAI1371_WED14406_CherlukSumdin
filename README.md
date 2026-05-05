@@ -40,9 +40,7 @@ ROC-AUC → overall classification performance
 Compared results using:
 
 Performance tables
-ROC curves
-Bar charts
-Confusion matrices
+
 
 **5. Ensemble Models**
 
