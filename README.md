@@ -46,7 +46,7 @@ Confusion matrices
 
 **5. Ensemble Models**
 
-Built ensemble models using the top 3 models (XGBoost, Random Forest, SVC):
+Built ensemble models using the top 3 models (XGBoost, Decision Tree,KNN):
 
 Voting Classifier: Combined predictions using soft voting (probabilities)
 
